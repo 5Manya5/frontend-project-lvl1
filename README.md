@@ -3,4 +3,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/dfc50c2d88cd46d069c1/maintainability)](https://codeclimate.com/github/hexlet-boilerplates/nodejs-package/maintainability)
 
-[![workflow](https://github.com/5Manya5/frontend-project-lvl1/actions/workflows/superlinter.yml/badge.svg)](https://github.com/5Manya5/frontend-project-lvl1/actions)
+[![workflow](https://github.com/5Manya5/frontend-project-lvl1/actions/workflows/superlinter.yml/badge.svg)](https://github.com/5manya5/frontend-project-lvl1/.github/workflows/superlinter.yml)
