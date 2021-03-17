@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/5Manya5/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/5Manya5/frontend-project-lvl1/actions)
 
-[![maintainability](https://codeclimate.com/github/5Manya5/frontend-project-lvl1/badge.svg)](https://codeclimate.com/github/5Manya5/frontend-project-lvl1)
+[![Maintainability](https://api.codeclimate.com/v1/badges/dfc50c2d88cd46d069c1/maintainability)](https://codeclimate.com/github/hexlet-boilerplates/nodejs-package/maintainability)
 
-[![workflow](https://github.com/5Manya5/frontend-project-lvl1/linter/.github/workflows/linter.yml/badge.svg)](https://github.com/5Manya5/frontend-project-lvl1/linter)
+[![workflow](https://github.com/5Manya5/frontend-project-lvl1/linter/.github/linter/linter.yml/badge.svg)](https://github.com/5Manya5/frontend-project-lvl1/actions/workflows/superlinter.yml)
