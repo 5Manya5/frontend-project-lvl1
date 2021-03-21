@@ -23,4 +23,5 @@ function getUserAnswer() {
   } while (answer === trueAnswer && n !== 3);
   return console.log(`Congratulations, ${name}!`);
 }
+
 export default getUserAnswer;
