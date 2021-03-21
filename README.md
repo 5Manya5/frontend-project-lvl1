@@ -6,3 +6,5 @@
 [![workflow](https://github.com/5Manya5/frontend-project-lvl1/actions/workflows/superlinter.yml/badge.svg)](https://github.com/5Manya5/frontend-project-lvl1/actions/workflows/node.js.yml)
 
 https://asciinema.org/a/400916
+
+https://asciinema.org/a/400992
