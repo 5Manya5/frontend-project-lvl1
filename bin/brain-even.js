@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import getUserAnswer from '../src/index.js';
+import getUserAnswer from '../games/index.js';
 
 getUserAnswer();
