@@ -12,3 +12,5 @@ https://asciinema.org/a/400992
 https://asciinema.org/a/403869
 
 https://asciinema.org/a/403896
+
+https://asciinema.org/a/404168
